@@ -10,5 +10,5 @@ uses Vgg16 architecture to train the pixels of a randomly generated image over a
 - Run all the cells of the notebook
 
 # Some Results
-![alt text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/content.jpeg)     ![alt_text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/plus.jpeg)      ![alt_text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/style_3.jpeg)      ![alt_text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/equal.png)    ![alt text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/styled_2_resized.png) 
+![alt text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/content.jpeg)     ![alt_text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/plus.jpeg)      ![alt_text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/style_3.jpeg)      ![alt_text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/equal.png)    ![alt text](https://github.com/OverGeek/Neural-Style-Transfer/blob/master/styled_1_re.png) 
 
